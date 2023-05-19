@@ -5,7 +5,7 @@ const (
 	ProductionLevel  = "production"
 
 	// defaultLevel is the default logger level
-	defaultLevel = ProductionLevel
+	defaultLevel = DevelopmentLevel
 )
 
 // Config is a struct to configure logger
